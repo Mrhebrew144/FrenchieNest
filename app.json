@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "FrenchieNest",
+    "slug": "FrenchieNest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#F8F1EC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.frenchienest.app"
+    },
+    "android": {
+      "package": "com.frenchienest.app"
+    }
+  }
+}
