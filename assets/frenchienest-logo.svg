@@ -1,0 +1,14 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="220" fill="#F8F1EC"/>
+  <circle cx="512" cy="512" r="380" fill="#E7C5BC" opacity="0.9"/>
+  <path d="M304 590C304 481.454 387.454 398 496 398H528C636.546 398 720 481.454 720 590V662C720 712.869 676.869 756 626 756H398C347.131 756 304 712.869 304 662V590Z" fill="#382B2A"/>
+  <ellipse cx="452" cy="516" rx="62" ry="78" fill="#382B2A"/>
+  <ellipse cx="572" cy="516" rx="62" ry="78" fill="#382B2A"/>
+  <circle cx="436" cy="498" r="16" fill="#F8F1EC"/>
+  <circle cx="588" cy="498" r="16" fill="#F8F1EC"/>
+  <path d="M444 620C466.919 641.183 491.978 652.27 512 652.27C532.022 652.27 557.081 641.183 580 620" stroke="#F8F1EC" stroke-width="16" stroke-linecap="round"/>
+  <rect x="420" y="228" width="184" height="150" rx="56" fill="#D9C7DE"/>
+  <path d="M452 242L512 186L572 242" stroke="#382B2A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="512" y="840" text-anchor="middle" fill="#382B2A" font-family="Arial, sans-serif" font-size="82" font-weight="700">FrenchieNest</text>
+  <text x="512" y="900" text-anchor="middle" fill="#6D625F" font-family="Arial, sans-serif" font-size="38">Newborn Frenchie Care</text>
+</svg>

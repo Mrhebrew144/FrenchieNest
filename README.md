@@ -1,43 +1,20 @@
 # FrenchieNest
 
-A mobile app starter for newborn French bulldog puppies and their parents.
+Copyright © 2026 TribulePackEnterprise LLC. All rights reserved.
 
-## Overview
-This project is a React Native + Expo app designed for:
-- tracking newborn Frenchie puppies
-- monitoring the mother Frenchie
-- logging feeding, sleep, and health updates
-- tracking reminders and care tasks
-- keeping a simple daily care dashboard
+This repository and all associated materials, including but not limited to the source code, app architecture, UI/UX design, branding, assets, documentation, scripts, and data models, are the exclusive property of TribulePackEnterprise LLC.
 
-## Files included
-- `App.tsx` — main app screen and UI
-- `package.json` — Expo project config
-- `app.json` — app metadata
-- `babel.config.js` — Babel setup
-- `tsconfig.json` — TypeScript config
+All rights reserved. No part of this project may be copied, reproduced, distributed, modified, sublicensed, sold, or otherwise used without the express written permission of TribulePackEnterprise LLC.
+
+This project is intended for design and development use and is protected as proprietary material under company ownership.
 
 ## Run locally
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the app:
-   ```bash
-   npm start
-   ```
-3. Run on Android/iOS:
-   ```bash
-   npm run android
-   npm run ios
-   ```
+1. npm install
+2. npm start
+3. npm run android or npm run ios
 
-## Notes
-This is a starter UI for the app idea. It is ready to be extended with:
-- login and auth
-- data persistence
-- puppy detail screens
-- growth charts
-- photo upload
-- vet reminders
-- breeder/admin dashboard
+## Included
+- Multi-screen app UI for newborn French bulldog care
+- Puppy and parent dashboards
+- Health tracking and reminders
+- Branding asset: `assets/frenchienest-logo.svg`
